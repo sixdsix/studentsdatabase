@@ -142,6 +142,7 @@ def updateStudent():
             break
         else:
             print("ERROR: Please enter a valid choice")
+            break
 
 
 
